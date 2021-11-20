@@ -5,4 +5,4 @@ Harley Quinn is good too.
 
 I like Coffee
 
-I resolved the conflict 
+I resolved the conflict. 
